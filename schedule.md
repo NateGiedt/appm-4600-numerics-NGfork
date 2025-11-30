@@ -257,7 +257,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - [Lab12: Fast and Accurate Least Squares](Labs/Lab12_LeastSquares.ipynb) via several methods
 - Fri, Nov 21 
   - Debrief from lab
-  - If you're rusy on eigenvalues and determinants, see all of [Ch9_EigenvalueBackground.pdf](Notes/Ch9_EigenvalueBackground.pdf), but we didn't cover all of this systematically in class. We focused on just parts of it and an in-class exercise to see if we can use the characteristic equation to find eigenvalues
+  - If you're rusty on eigenvalues and determinants, see all of [Ch9_EigenvalueBackground.pdf](Notes/Ch9_EigenvalueBackground.pdf), but we didn't cover all of this systematically in class. We focused on just parts of it and an in-class exercise to see if we can use the characteristic equation to find eigenvalues
     - Demo: [Ch9_EigenvaluesTheBadWay.ipynb](Demos/Ch9_EigenvaluesTheBadWay.ipynb), though this also has information on how to compute the determinant *the good way*
 #### Thanksgiving break, no class
 
